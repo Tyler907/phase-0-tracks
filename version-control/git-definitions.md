@@ -12,4 +12,4 @@ A branch is like a copy of an original set of code.  You can make changes to thi
 a commit is like a save point.  it is how you commit to your changes and make them available to be pushed or pulled to/from GitHub
 
 * What is a merge conflict?
-merge conflict is when the code from a branch doesn't match-up with code on the master branch.  this disagreement is discovered when merging.
+merge conflict is when the code from a branch doesn't match-up with code on the master branch.  this disagreement is discovered when merging..
